@@ -16,6 +16,7 @@ Responsive Design: The application is designed to be responsive and works well o
 * Authentication: Add user authentication to secure the application and allow only authorized users to manage superheroes.
 * Hero Details Page: Create a detailed view page for each superhero with more information and a larger avatar.
 * Deployment: Deploy the application to a cloud platform like Vercel (for frontend) and Heroku (for backend) for easy access and scalability.
+* Use AI to generate an avatar based on the hero's superpower
 
 #### To collaborate effectively with a teammate on implementing the suggested useful features, we can follow these steps:
 
